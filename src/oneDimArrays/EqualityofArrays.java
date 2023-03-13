@@ -1,4 +1,4 @@
-// Given two arrays, check whether the two arrays are equal to each other or not.
+package oneDimArrays;// Given two arrays, check whether the two arrays are equal to each other or not.
 // Ex: arr1 = {10,70,30,60};
 // Ex: arr2 = {10,70,30,60,80};
 // O/P : false

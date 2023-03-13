@@ -1,4 +1,4 @@
-// Given an array, check whether a particular element is present in the array or not
+package oneDimArrays;// Given an array, check whether a particular element is present in the array or not
 // Ex: arr = [10,20,5,15]
 // num = 20
 // O/P: True

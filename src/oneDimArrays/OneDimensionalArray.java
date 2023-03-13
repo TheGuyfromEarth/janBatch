@@ -1,9 +1,14 @@
+package oneDimArrays;
+
 public class OneDimensionalArray {
 
     public static void main(String[] args) {
 
         // declaration, initialization and assignment
-        int[] studentMarks = {90, 100, 75, 80, 98};
+        int[] csMarks = {90, 100, 75, 80, 98};
+        int[] aiMarks = {80, 90, 79, 60, 93};
+
+        int[] marks = {90, 100, 75, 80, 98};
 
 //        System.out.println(studentMarks[1]);
 

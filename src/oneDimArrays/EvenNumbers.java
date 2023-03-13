@@ -1,4 +1,4 @@
-// Given an array, print all the even numbers present in that array
+package oneDimArrays;// Given an array, print all the even numbers present in that array
 // Ex: arr = {10,8,12,9,11,19,18,22}
 // O/P: 10,8,12,18,22
 

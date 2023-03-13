@@ -1,4 +1,4 @@
-// Given an array, find the smallest element present in that array
+package oneDimArrays;// Given an array, find the smallest element present in that array
 // Ex: arr = {10,8,12,9,11}
 // O/P: 8
 

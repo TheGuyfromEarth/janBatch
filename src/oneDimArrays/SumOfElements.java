@@ -1,4 +1,4 @@
-// Given an array, find the sum of all the elements present in the array
+package oneDimArrays;// Given an array, find the sum of all the elements present in the array
 // Ex: arr = [10,20,5,15]
 // O/P: 50
 
