@@ -1,10 +1,12 @@
+package revision;
+
 public class Main {
 
     public static void main(String[] args) {
 
         int num1 = 10; // 0
         long num2 = 10; // 0
-        float num3 = 10;// 0.0
+        float num3 = 10;// 0.000027498798
         short num4 = 10;// 0
         double num5 = 10;// 0.0
         boolean num6 = true; //  false
