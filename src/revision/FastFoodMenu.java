@@ -12,7 +12,7 @@ public class FastFoodMenu {
 
         int choice = 0;
 
-        while (choice != 5) {
+        do {
             System.out.println("*********MENU*********");
             System.out.println("1 Rolls");
             System.out.println("2 Pizza");
@@ -41,7 +41,8 @@ public class FastFoodMenu {
                 default:
                     System.out.println("Incorrect Input");
             }
-        }
+        }while (choice != 5);
+
 //        if (choice == 1)
 //            System.out.println("Rolls");
 //        else if (choice == 2)
