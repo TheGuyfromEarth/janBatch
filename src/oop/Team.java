@@ -1,5 +1,7 @@
 package oop;
 
+import java.util.Arrays;
+
 public class Team {
 
     public static void main(String[] args) {
@@ -63,6 +65,17 @@ public class Team {
 
 //        player1.printCricketerType("Good");
 
-        System.out.println(player1.playerName("Mr"));
+//        System.out.println(player1.playerName("Mr"));
+
+//        Object[] myArray = new Object[10];
+//
+//        myArray[0] = "Rishabh";
+//        myArray[1] = 16;
+//        myArray[2] = "Indian";
+//        myArray[3] = 171.5;
+//        myArray[4] = true;
+//
+//
+//        System.out.println(Arrays.toString(myArray));
     }
 }
