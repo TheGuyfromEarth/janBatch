@@ -10,11 +10,13 @@ public class Check {
         linkedList.add(20);
         linkedList.add(40);
         linkedList.add(30);
+        linkedList.remove(30);
 
-        System.out.println(linkedList.get(2));
-//        System.out.println(linkedList.get(-1));
-        System.out.println(linkedList.get(5));
 
-//        linkedList.display();
+//        System.out.println(linkedList.get(2));
+////        System.out.println(linkedList.get(-1));
+//        System.out.println(linkedList.get(5));
+
+        linkedList.display();
     }
 }
